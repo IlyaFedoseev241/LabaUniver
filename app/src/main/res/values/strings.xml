@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laba222</string>
+    <string name="newFacultyGroup">Добавить</string>
+    <string name="cancel">отмена</string>
+    <string name="commit">подтверждение</string>
+    <string name="inputTitle">укажите значение</string>
+    <string name="inputFaculty">наименование факультета</string>
+    <string name="inputGroup">номер группы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
